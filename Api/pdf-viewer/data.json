@@ -1,0 +1,20 @@
+
+{
+  "pdfs": [
+    {
+      "id": "1",
+      "title": "D.El.Ed 2nd Semester Notes",
+      "pdfUrl": "https://dietbarpeta.github.io/pyq/pdf/2026/deled-3-sem/deled-3-sem-ict-integrated-pedagogy-2-s3-7-2026.pdf"
+    },
+    {
+      "id": "2",
+      "title": "Child Development Notes",
+      "pdfUrl": "https://example.com/notes2.pdf"
+    },
+    {
+      "id": "3",
+      "title": "Education Psychology Notes",
+      "pdfUrl": "https://example.com/notes3.pdf"
+    }
+  ]
+}
